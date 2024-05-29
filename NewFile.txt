@@ -3,6 +3,8 @@ New starting line
 
 Aleksandar 
 
-Semos cas 1
+Semos 1
 
 Semos cas 2
+
+Text added in feature 2.
