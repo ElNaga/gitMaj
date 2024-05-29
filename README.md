@@ -3,3 +3,4 @@ I'm feeling good
 Third line
 
 Remote branch added text
+new text
