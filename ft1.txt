@@ -1,2 +1,4 @@
 Feature 1 text 
-feature 1 code
+feature 1 
+
+Adding new code.
