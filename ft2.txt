@@ -7,3 +7,4 @@ Lorem ipsum dolor sit amet,
  porta et. Vivamus quis vehicula ante. Aenean quis sem quis felis fermentum facilisis. In tempor tincidunt ultricies. Sed venenatis dictum odio in viverra. In imperdiet eros id risus mollis, facilisis cursus urna dapibus. Etiam eget neque eget eros scelerisque mattis sit amet vel sapien.
 
 Text at line 9 from main.
+Changes in line 9 from ft2 branch.
